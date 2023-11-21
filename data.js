@@ -2,23 +2,23 @@ const  servicesData = [
   {
     title: "Frontend Develpment",
     category: "frontend",
-    description: ['Frontend Lorem ipsum dolor sit amet consectetur adipisicing elit.','Delectus fugiat aspernatur nulla libero modi voluptatem esse,','rem placeat reiciendis veniam! Quaerat,','ipsa provident fuga omnis quos recusandae saepe quidem consequuntur!']
+    description: ['Frontend : User Interface(UI).','User Experience(UX),','Web Development,','Frameworks and Libraries','AJAX','Cross-Browser Compatibility','Accessibility','Intergration with Backend Services']
   },
   {
     title: "Backend Develpment",
     category: "backend",
-    description: ['Backend Lorem ipsum dolor,','sit amet consectetur adipisicing elit.','Laboriosam,','non beatae expedita consequuntur tenetur ut nesciunt minima ab magni facilis nulla.','Magnam, quidem assumenda culpa vel illo porro optio officiis?']
+    description: ['Backend : Server,','Database','Server-Side Programming,','APIs(Application Programming Interface)','Aunthentification and Authorization','Security','Business Logic','Server-Side Frameworks','Scalability','Logging and Monitoring']
   },
 {
   title: "Fullstack Development",
   category: "fullstack",
-  description: ['Fullstack developer and,','HTML and CSS.','HTML language for front-end technologies.',
+  description: ['Fullstack developer : Database Managemnt','Frontend and Backend Development','Version Control.','HTML/CSS language for front-end technologies.','DEployment and DevOps','Security','Problem Solving and Troubleshooting', 'Collaboration and Communication','Adaptable.',
   'JavaScript and.',
   ',Git and GitHub. ...',
   'BackEnd Development Languages. ..',
   'Web Architecture. ..',
   'Database Management Systems. ..',
-  'Fundamentals of Designs. ..',
+  'Fundamentals of Designs. ..', 
   'REST and SOAP.']
 }
 ]
